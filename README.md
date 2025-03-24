@@ -48,3 +48,4 @@ Tailwind is required by NextUI even if not used directly.
 Everything is handled using simple React state (useState, useEffect).
 
 
+![App Screenshot](./Prowler_Scan_Dashboard.png)
